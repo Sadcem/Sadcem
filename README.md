@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Machine Learning
 - 💗 I’m looking to collaborate on Hackathons and projects that match my intersets!
 - 📫 How to reach me  
+  Email : sadeemasiri21@gmail.com
   LinkdIn : www.linkedin.com/in/sadeemasiri2003
   X : https://x.com/sadjmm?s=20
 
