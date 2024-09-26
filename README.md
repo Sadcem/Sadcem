@@ -54,8 +54,3 @@ Let's connect via my social media:
 - **Participate** in data science hackathons and challenges.
 - **Grow** my expertise and continuously learn new techniques in **data science** and **AI**.
 
----
-
-## 🔍 Fun Fact
-
-![Fun Fact](https://img.shields.io/badge/Fun_Fact-Tech_for_Good-pink?style=for-the-badge&logo=smile&logoColor=white)
