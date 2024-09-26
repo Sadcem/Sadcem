@@ -10,8 +10,6 @@ I'm a passionate explorer in the world of **Data Science** and **Artificial Inte
 
 ## 🌱 What I’m Learning
 
-![Learning](https://img.shields.io/badge/Learning-Growing-blue?style=flat-square&logo=codeforces&logoColor=white)
-
 I'm constantly expanding my skillset, and here’s what I’m diving into right now:
 
 - **Machine Learning**: Enhancing my ability to implement and optimize ML techniques for real-world solutions.
@@ -32,7 +30,6 @@ Feel free to **reach out** if:
 - You need a partner for an upcoming **hackathon**
 - You want to discuss anything related to **data science**
 
-Let’s create something impactful together!
 
 ---
 
