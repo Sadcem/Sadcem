@@ -4,6 +4,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sadeem_Asiri-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadeemasiri2003)
 [![X](https://img.shields.io/badge/X-%40sadjmm-black?style=flat-square&logo=x&logoColor=white)](https://x.com/sadjmm)
 
+<img src="https://profile-counter.glitch.me/{sadcem}/count.svg" alt="sadcem :: Visitor's Count" />
+
 I'm passionate about **Data Science** and **Artificial Intelligence**, especially in the realm of **Machine Learning**. I love to explore how these technologies can be applied to real-world challenges.
 
 ---
