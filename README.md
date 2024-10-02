@@ -25,10 +25,6 @@ I'm passionate about **Data Science** and **Artificial Intelligence**, especiall
 ![Hackathons](https://img.shields.io/badge/Hackathons-Open-yellow?style=for-the-badge&logo=hackaday&logoColor=black)
 ![Projects](https://img.shields.io/badge/Projects-Welcome-teal?style=for-the-badge&logo=github&logoColor=white)
 
-Interested in:
-- **Hackathons** and **collaborative projects**.
-- **ML/AI** development and discussions.
-
 ---
 
 ## 🎯 Goals
