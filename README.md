@@ -18,6 +18,15 @@ I'm passionate about **Data Science** and **Artificial Intelligence**, especiall
 - **Data Analysis**: Extracting actionable insights from datasets.
 - **AI Applications**: Exploring innovative uses of AI in everyday solutions.
 
+<h1 align="center" style="color:#ff69b4;">🌸 Languages I Use 🌸</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-%23FF69B4.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23FF69B4.svg?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-%23FF69B4.svg?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-%23FF69B4.svg?style=for-the-badge&logo=arduino&logoColor=white" />
+</p>
+
 ---
 
 ## 🤝 Open to Collaborate
