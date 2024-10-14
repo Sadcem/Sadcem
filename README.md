@@ -26,9 +26,22 @@ I'm passionate about **Data Science** and **Artificial Intelligence**, especiall
   <img src="https://img.shields.io/badge/Linux-%23FF69B4.svg?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-%23FF69B4.svg?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
+...
+<h1 align="center" style="color:#ff69b4;">🌸 My GitHub Dashboard 🌸</h1>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sadeemm0&show_icons=true&theme=radical&hide_border=true&bg_color=ffccf9&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadeemm0&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=ffccf9&title_color=ff69b4&text_color=ffffff" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sadeemm0&theme=pink" alt="Profile Details" />
+</p>
 
 
-[![Languages Used](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sadeemm0&theme=pink)](https://github.com/Sadeemm0)
 ---
 
 ## 🤝 Open to Collaborate
