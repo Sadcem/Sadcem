@@ -9,8 +9,16 @@ I'm Sadeem, a senior Information Systems student passionate about technology and
 </p>
 
 ## 🌹 🌟 Connect
-- [🌷 LinkedIn](your_linkedin_profile)
-- [🌻 Twitter](your_twitter_profile)
-- [🌸 Email](mailto:sadeemasiri21@gmail.com)
+<p align="center">
+  <a href="your_linkedin_profile">
+    <img src="https://img.shields.io/badge/LinkedIn-%23ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="your_twitter_profile">
+    <img src="https://img.shields.io/badge/Twitter-%23ff69b4?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:sadeemasiri21@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23ff69b4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ✨ Thanks for visiting my profile! Feel free to reach out! ✨
