@@ -33,7 +33,12 @@ I'm passionate about **Data Science** and **Artificial Intelligence**, especiall
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadeemm0&layout=compact&theme=radical&hide_border=true&bg_color=ffccf9" alt="Top Languages" />
 </p>
+....
+<h1 align="center" style="color:#ff69b4;">🌸 My Language Dashboard 🌸</h1>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadeemm0&langs_count=6&layout=compact&theme=radical&hide_border=true&bg_color=ffccf9" alt="Top Languages" />
+</p>
 ---
 
 ## 🤝 Open to Collaborate
