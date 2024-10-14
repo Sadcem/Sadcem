@@ -28,6 +28,7 @@ I'm passionate about **Data Science** and **Artificial Intelligence**, especiall
 </p>
 
 
+[![Languages Used](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sadeemm0&theme=pink)](https://github.com/Sadeemm0)
 ---
 
 ## 🤝 Open to Collaborate
