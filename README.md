@@ -41,7 +41,21 @@ I'm passionate about **Data Science** and **Artificial Intelligence**, especiall
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sadeemm0&theme=pink" alt="Profile Details" />
 </p>
 
+<h1 align="center" style="color:#ff69b4;">🌸 GitHub Language Dashboard 🌸</h1>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sadeemm0&theme=pink" alt="Repositories per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sadeemm0&theme=pink" alt="Most Commit Language" />
+</div>
+
+<h2 align="center" style="color:#ff69b4;">💻 GitHub Activity 💻</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sadeemm0&theme=radical&hide_border=true&background=ffccf9&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sadeemm0&show_icons=true&theme=radical&hide_border=true&bg_color=ffccf9&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff" alt="GitHub Stats" />
+</p>
 ---
 
 ## 🤝 Open to Collaborate
