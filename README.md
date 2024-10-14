@@ -26,6 +26,13 @@ I'm passionate about **Data Science** and **Artificial Intelligence**, especiall
   <img src="https://img.shields.io/badge/Linux-%23FF69B4.svg?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-%23FF69B4.svg?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
+...
+
+<h1 align="center" style="color:#ff69b4;">🌸 My Language Dashboard 🌸</h1>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadeemm0&layout=compact&theme=radical&hide_border=true&bg_color=ffccf9" alt="Top Languages" />
+</p>
 
 ---
 
