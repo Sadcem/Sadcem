@@ -8,14 +8,8 @@ I'm Sadeem, a senior Information Systems student passionate about technology and
   <img src="https://github-readme-stats.vercel.app/api?username=Sadeemm0&show_icons=true&theme=radical&hide_border=true&bg_color=ffccf9&title_color=ff4f9c&icon_color=ff4f9c&text_color=ff69b4" alt="GitHub Stats" />
 </p>
 
-# Programming Language Dashboard
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadeemm0&layout=compact&theme=radical&hide_border=true&bg_color=ffccf9&title_color=ff4f9c&text_color=ff69b4" alt="Top Languages" />
-</p>
-
 ----
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,aws,R,Ps,c++,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,r,aws,arduino,ros,ubuntu,vscode,cpp,linux,mysql,php)](https://skillicons.dev)
 
 ## Connect
 <p align="center">
