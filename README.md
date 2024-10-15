@@ -16,6 +16,11 @@ I'm Sadeem, a senior Information Systems student passionate about technology and
 
 Thanks for checking out my programming language usage!
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sadeem&show_icons=true&title_color=ff69b4&icon_color=ffb6c1&text_color=ffccff&bg_color=2d2a2a" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sadeem&theme=tokyonight_duo&ring=ff69b4&fire=ffb6c1&currStreakLabel=ffccff" width="45%" />
+</p>
+
 ## Connect
 <p align="center">
   <a href="your_linkedin_profile">
