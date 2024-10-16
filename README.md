@@ -7,6 +7,11 @@ I'm Sadeem, a senior Information Systems student passionate about technology and
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sadeemm0&show_icons=true&theme=radical&hide_border=true&bg_color=ffccf9&title_color=ff4f9c&icon_color=ff4f9c&text_color=ff69b4" alt="GitHub Stats" />
 </p>
+-  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sadeem&show_icons=true&theme=rose_pine&title_color=FFB6C1&icon_color=FFC0CB&bg_color=1A1A1A&text_color=FFC0CB&border_color=FFB6C1" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sadeem&theme=rose_pine&border=FFB6C1&ring=FFC0CB&fire=FFC0CB&currStreakLabel=FFC0CB" />
+</p>
 
 ----
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,r,aws,arduino,ros,ubuntu,vscode,cpp,linux,mysql,php)](https://skillicons.dev)
