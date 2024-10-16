@@ -51,14 +51,6 @@ I'm always open to **collaborate on exciting projects** and contribute to **open
 
 ---
 
-## 🎯 Fun Facts
-- 🌱 I’m currently learning: **Advanced Python** and **Data Analytics**.
-- 💡 Fun fact: I love working with **robots** and tinkering with **IoT devices**.
-- 🎨 Hobbies: Coding, reading tech blogs, and **exploring new frameworks**.
-- 👾 Favorite editor: **Visual Studio Code**.
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sadcem&color=ff69b4&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </p>
