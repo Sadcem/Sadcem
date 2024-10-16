@@ -37,7 +37,7 @@ When I'm not coding, you can find me experimenting with new technologies, readin
     <img src="https://img.shields.io/badge/LinkedIn-%23ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/sadjmm" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%23ff69b4?style=for-the-badge&logo=twitter&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/Twitter-%23ff69b4?style=for-the-badge&logo=X&logoColor=white" alt="X" />
   </a>
   <a href="mailto:sadeemasiri21@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23ff69b4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
