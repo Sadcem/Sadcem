@@ -11,20 +11,6 @@ When I'm not coding, you can find me experimenting with new technologies, readin
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sadcem&show_icons=true&theme=radical&hide_border=true&bg_color=ffccf9&title_color=ff4f9c&icon_color=ff4f9c&text_color=ff69b4" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadcem&theme=radical&hide_border=true&background=ffccf9&stroke=ff4f9c&ring=ff4f9c&fire=ff69b4&currStreakLabel=ff69b4" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sadcem&theme=radical" alt="Profile Summary" />
-</p>
-
----
 
 ## 🛠️ Tech & Tools  
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,r,aws,arduino,ros,ubuntu,vscode,cpp,linux,mysql,php)](https://skillicons.dev)
