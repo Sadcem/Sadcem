@@ -5,7 +5,7 @@
 ---
 
 ## ✨ About Me
-I'm **Sadeem**, a senior Information Systems student passionate about technology, coding, and problem-solving. I love to explore various programming tools and platforms, and I’m always excited to learn new things! My interests span from **web development** to **data science**, and I enjoy working on projects that merge creativity with technology.
+I'm **Sadeem**, Information Systems Fresh Graduate passionate about technology, coding, and problem-solving. I love to explore various programming tools and platforms, and I’m always excited to learn new things! My interests span from **cybersecurity** to **data science**, and I enjoy working on projects that merge creativity with technology.
 
 When I'm not coding, you can find me experimenting with new technologies, reading, or catching up on the latest tech trends.
 
